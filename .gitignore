@@ -1,6 +1,10 @@
 # Mac OS X file
 .DS_Store
 
+# Output directory
+images/
+images_detected/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
